@@ -1,2 +1,2 @@
 #myAPP
-Thia ia my app.
+This ia my app.
